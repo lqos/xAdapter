@@ -1,1 +1,2 @@
-include ':app', ':xadapter'
+include ':app'
+include ':xadapter'
